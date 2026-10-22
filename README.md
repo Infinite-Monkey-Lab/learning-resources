@@ -1,14 +1,20 @@
 # 📚 学习资料与科研入门
 
-这里按主题收录教程、课程笔记、读书会资料与科研入门指南。分类仓库是导航目录；每个项目保留自己的独立主页和维护记录。
+这里收录教程、课程笔记、读书会资料和科研入门指南。此仓库是分类索引；项目内容、源码和维护活动保留在各自的独立仓库。
 
 ## 项目列表
 
 - [How-to-science](https://github.com/Infinite-Monkey-Lab/How-to-science) — 面向科研新手的论文阅读与研究方向评估指南。
 
+## 收录字段规范
+
+每个项目条目应链接到独立主页，并说明用途简介、当前状态、维护者、许可证、适用对象和开始使用或参与的入口。未知信息标注“待确认”，不要推测许可证或维护状态。
+
+新增或更新条目时，可复制[项目条目模板](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_ENTRY_TEMPLATE.md)。
+
 ## 提交项目
 
-[提交学习资料或课程项目的收录申请](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)。建议附上项目主页、适用对象、内容简介和参与方式。
+[在组织 Discussions 提交学习资料或课程项目](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)。请附项目主页、适用对象、内容简介和参与方式。
 
 ---
 
