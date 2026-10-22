@@ -1,10 +1,13 @@
 # 📚 学习资料与科研入门
 
-这里收录教程、课程笔记、读书会资料和科研入门指南。此仓库是分类索引；项目内容、源码和维护活动保留在各自的独立仓库。
+这里收录教程、课程笔记、读书会资料和科研入门指南。此仓库是分类索引；项目的内容、源码和维护活动保留在各自的独立仓库。
 
 ## 项目列表
 
-- [How-to-science](https://github.com/Infinite-Monkey-Lab/How-to-science) — 面向科研新手的论文阅读与研究方向评估指南。
+- **[How-to-science](https://github.com/Infinite-Monkey-Lab/How-to-science)** — 面向科研新手的论文阅读与研究方向评估指南。
+  - 状态：持续整理（README 标注“更多内容持续更新中”）；维护者：待确认。
+  - 许可证：未声明（仓库没有 LICENSE 文件）；请勿默认内容可自由复用。
+  - [开始阅读](https://github.com/Infinite-Monkey-Lab/How-to-science#科研入门指南) · [Issues](https://github.com/Infinite-Monkey-Lab/How-to-science/issues) · [Releases](https://github.com/Infinite-Monkey-Lab/How-to-science/releases)
 
 ## 收录字段规范
 
